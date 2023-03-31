@@ -1,0 +1,88 @@
+[Importing payments Details.....]
+1 | 719 | 444 | 30-10-2016 | 68.. |  |  | 2500 | ChequeNo: <68..> ChequeClear <> SrNo <1> VoucherNo <719>.
+2 | 1068 | 648 | 9/1/2017 | 309258 |  |  | 3064 | ChequeNo: <309258> ChequeClear <> SrNo <2> VoucherNo <1068>.
+3 | 1098 | 678 | 25-01-2017 | 684028 |  |  | 3013 | ChequeNo: <684028> ChequeClear <> SrNo <3> VoucherNo <1098>.
+6 | 448 | 87 | 4/4/2016 | ECS | 4/4/2016 | 04-04-2016 | 1056 | ChequeNo: <ECS> ChequeClear <04-04-2016> SrNo <6> VoucherNo <448>.
+7 | 449 | 88 | 4/4/2016 | ECS | 4/4/2016 | 04-04-2016 | 12200 | ChequeNo: <ECS> ChequeClear <04-04-2016> SrNo <7> VoucherNo <449>.
+8 | 450 | 89 | 4/4/2016 | ECS | 4/4/2016 | 04-04-2016 | 4881 | ChequeNo: <ECS> ChequeClear <04-04-2016> SrNo <8> VoucherNo <450>.
+9 | 451 | 90 | 4/4/2016 | ECS | 4/4/2016 | 04-04-2016 | 11272 | ChequeNo: <ECS> ChequeClear <04-04-2016> SrNo <9> VoucherNo <451>.
+10 | 452 | 91 | 4/4/2016 | ECS | 4/4/2016 | 04-04-2016 | 1557 | ChequeNo: <ECS> ChequeClear <04-04-2016> SrNo <10> VoucherNo <452>.
+11 | 453 | 92 | 4/4/2016 | ECS | 4/4/2016 | 04-04-2016 | 1318 | ChequeNo: <ECS> ChequeClear <04-04-2016> SrNo <11> VoucherNo <453>.
+13 | 293 | 3 | 5/4/2016 | 100500 | 5/4/2016 | 06-04-2016 | 7824 | ChequeNo: <100500> ChequeClear <06-04-2016>.
+14 | 295 | 4 | 5/4/2016 | 100501 | 5/4/2016 | 06-04-2016 | 3000 | ChequeNo: <100501> ChequeClear <06-04-2016>.
+22 | 457 | 95 | 30-04-2016 | ECS | 30-04-2016 | 30-04-2016 | 9972 | ChequeNo: <ECS> ChequeClear <30-04-2016> SrNo <22> VoucherNo <457>.
+23 | 458 | 96 | 30-04-2016 | ECS | 30-04-2016 | 30-04-2016 | 4932 | ChequeNo: <ECS> ChequeClear <30-04-2016> SrNo <23> VoucherNo <458>.
+24 | 459 | 97 | 30-04-2016 | ECS | 30-04-2016 | 30-04-2016 | 1046 | ChequeNo: <ECS> ChequeClear <30-04-2016> SrNo <24> VoucherNo <459>.
+25 | 460 | 98 | 30-04-2016 | ECS | 30-04-2016 | 30-04-2016 | 1436 | ChequeNo: <ECS> ChequeClear <30-04-2016> SrNo <25> VoucherNo <460>.
+26 | 461 | 99 | 30-04-2016 | ECS | 30-04-2016 | 30-04-2016 | 12764 | ChequeNo: <ECS> ChequeClear <30-04-2016> SrNo <26> VoucherNo <461>.
+27 | 462 | 100 | 30-04-2016 | ECS | 30-04-2016 | 30-04-2016 | 1288 | ChequeNo: <ECS> ChequeClear <30-04-2016> SrNo <27> VoucherNo <462>.
+31 | 305 | 5 | 5/5/2016 | 100516 | 5/5/2016 | 05-10-2016 | 3000 | ChequeNo: <100516> ChequeClear <05-10-2016>.
+41 | 442 | 81 | 31-05-2016 | ECS | 31-05-2016 | 31-05-2016 | 10024 | ChequeNo: <ECS> ChequeClear <31-05-2016> SrNo <41> VoucherNo <442>.
+42 | 443 | 82 | 31-05-2016 | ECS | 31-05-2016 | 31-05-2016 | 4477 | ChequeNo: <ECS> ChequeClear <31-05-2016> SrNo <42> VoucherNo <443>.
+43 | 444 | 83 | 31-05-2016 | ECS | 31-05-2016 | 31-05-2016 | 928 | ChequeNo: <ECS> ChequeClear <31-05-2016> SrNo <43> VoucherNo <444>.
+44 | 445 | 84 | 31-05-2016 | ECS | 31-05-2016 | 31-05-2016 | 1388 | ChequeNo: <ECS> ChequeClear <31-05-2016> SrNo <44> VoucherNo <445>.
+45 | 446 | 85 | 31-05-2016 | ECS | 31-05-2016 | 31-05-2016 | 12401 | ChequeNo: <ECS> ChequeClear <31-05-2016> SrNo <45> VoucherNo <446>.
+46 | 447 | 86 | 31-05-2016 | ECS | 31-05-2016 | 31-05-2016 | 1240 | ChequeNo: <ECS> ChequeClear <31-05-2016> SrNo <46> VoucherNo <447>.
+51 | 245 | 1 | 1/6/2016 | 100528 | 1/6/2016 | 06-08-2016 | 3000 | ChequeNo: <100528> ChequeClear <06-08-2016>.
+57 | 254 | 2 | 27-06-2016 | 100538 | 27-06-2016 | 29-06-2016 | 3000 | ChequeNo: <100538> ChequeClear <29-06-2016>.
+58 | 252 | 10 | 27-06-2016 |  |  | 29-06-2016 | 1500 | ChequeNo: <> ChequeClear <29-06-2016> SrNo <58> VoucherNo <252>.
+59 | 587 | 111 | 30-06-2016 |  |  | 30-06-2016 | 58 | ChequeNo: <> ChequeClear <30-06-2016> SrNo <59> VoucherNo <587>.
+62 | 386 | 34 | 2/7/2016 | ECS | 2/7/2016 | 02-07-2016 | 10619 | ChequeNo: <ECS> ChequeClear <02-07-2016> SrNo <62> VoucherNo <386>.
+63 | 387 | 35 | 2/7/2016 | ECS | 2/7/2016 | 02-07-2016 | 4623 | ChequeNo: <ECS> ChequeClear <02-07-2016> SrNo <63> VoucherNo <387>.
+64 | 388 | 36 | 2/7/2016 | ECS | 2/7/2016 | 02-07-2016 | 982 | ChequeNo: <ECS> ChequeClear <02-07-2016> SrNo <64> VoucherNo <388>.
+65 | 389 | 37 | 2/7/2016 | ECS | 2/7/2016 | 02-07-2016 | 1502 | ChequeNo: <ECS> ChequeClear <02-07-2016> SrNo <65> VoucherNo <389>.
+66 | 390 | 38 | 2/7/2016 | ECS | 2/7/2016 | 02-07-2016 | 13240 | ChequeNo: <ECS> ChequeClear <02-07-2016> SrNo <66> VoucherNo <390>.
+67 | 391 | 39 | 2/7/2016 | ECS | 2/7/2016 | 02-07-2016 | 1381 | ChequeNo: <ECS> ChequeClear <02-07-2016> SrNo <67> VoucherNo <391>.
+71 | 395 | 6 | 7/7/2016 | 100542 | 7/7/2016 | 07-07-2016 | 4000 | ChequeNo: <100542> ChequeClear <07-07-2016>.
+75 | 400 | 7 | 15-07-2016 | 100548 | 16-07-2016 | 16-07-2016 | 3000 | ChequeNo: <100548> ChequeClear <16-07-2016>.
+80 | 404 | 50 | 30-07-2016 | ECS | 30-07-2016 | 30-07-2016 | 11586 | ChequeNo: <ECS> ChequeClear <30-07-2016> SrNo <80> VoucherNo <404>.
+81 | 405 | 51 | 30-07-2016 | ECS | 30-07-2016 | 30-07-2016 | 4864 | ChequeNo: <ECS> ChequeClear <30-07-2016> SrNo <81> VoucherNo <405>.
+82 | 406 | 52 | 30-07-2016 | ECS | 30-07-2016 | 30-07-2016 | 1162 | ChequeNo: <ECS> ChequeClear <30-07-2016> SrNo <82> VoucherNo <406>.
+83 | 407 | 53 | 30-07-2016 | ECS | 30-07-2016 | 30-07-2016 | 1494 | ChequeNo: <ECS> ChequeClear <30-07-2016> SrNo <83> VoucherNo <407>.
+84 | 408 | 54 | 30-07-2016 | ECS | 30-07-2016 | 30-07-2016 | 13774 | ChequeNo: <ECS> ChequeClear <30-07-2016> SrNo <84> VoucherNo <408>.
+85 | 409 | 55 | 30-07-2016 | ECS | 30-07-2016 | 30-07-2016 | 1386 | ChequeNo: <ECS> ChequeClear <30-07-2016> SrNo <85> VoucherNo <409>.
+89 | 588 | 112 | 2/8/2016 | ECS | 2/8/2016 | 02-08-2016 | 932 | ChequeNo: <ECS> ChequeClear <02-08-2016> SrNo <89> VoucherNo <588>.
+93 | 583 | 110 | 5/8/2016 |  |  | 04-09-2016 | 50490 | ChequeNo: <> ChequeClear <04-09-2016> SrNo <93> VoucherNo <583>.
+94 | 582 | 109 | 5/8/2016 |  |  | 12-08-2016 | 1030 | ChequeNo: <> ChequeClear <12-08-2016> SrNo <94> VoucherNo <582>.
+95 | 571 | 8 | 11/8/2016 | 100564 | 11/8/2016 | 12-08-2016 | 3000 | ChequeNo: <100564> ChequeClear <12-08-2016>.
+101 | 590 | 113 | 29-08-2016 | ECS | 29-08-2016 | 29-08-2016 | 961 | ChequeNo: <ECS> ChequeClear <29-08-2016> SrNo <101> VoucherNo <590>.
+104 | 591 | 114 | 1/9/2016 | ECS | 1/9/2016 | 01-09-2016 | 33754 | ChequeNo: <ECS> ChequeClear <01-09-2016> SrNo <104> VoucherNo <591>.
+119 | 676 | 11 | 3/9/2016 | 100575 | 3/9/2016 | 23-09-2016 | 3000 | ChequeNo: <100575> ChequeClear <23-09-2016>.
+122 | 672 | 132 | 28-09-2016 | ECS | 28-09-2016 | 28-09-2016 | 837 | ChequeNo: <ECS> ChequeClear <28-09-2016> SrNo <122> VoucherNo <672>.
+127 | 810 | 150 | 3/10/2016 | ECS | 3/10/2016 | 03-10-2016 | 12783 | ChequeNo: <ECS> ChequeClear <03-10-2016> SrNo <127> VoucherNo <810>.
+128 | 811 | 151 | 3/10/2016 | ECS | 3/10/2016 | 03-10-2016 | 4991 | ChequeNo: <ECS> ChequeClear <03-10-2016> SrNo <128> VoucherNo <811>.
+129 | 812 | 152 | 3/10/2016 | ECS | 3/10/2016 | 03-10-2016 | 1278 | ChequeNo: <ECS> ChequeClear <03-10-2016> SrNo <129> VoucherNo <812>.
+130 | 813 | 153 | 3/10/2016 | ECS | 3/10/2016 | 03-10-2016 | 1588 | ChequeNo: <ECS> ChequeClear <03-10-2016> SrNo <130> VoucherNo <813>.
+131 | 814 | 154 | 3/10/2016 | ECS | 3/10/2016 | 03-10-2016 | 15406 | ChequeNo: <ECS> ChequeClear <03-10-2016> SrNo <131> VoucherNo <814>.
+132 | 815 | 155 | 3/10/2016 | ECS | 3/10/2016 | 03-10-2016 | 1336 | ChequeNo: <ECS> ChequeClear <03-10-2016> SrNo <132> VoucherNo <815>.
+137 | 809 | 13 | 13-10-2016 | 100593 | 13-10-2016 | 13-10-2016 | 3000 | ChequeNo: <100593> ChequeClear <13-10-2016>.
+144 | 884 | 157 | 1/11/2016 | ECS | 1/11/2016 | 01-11-2016 | 1179 | ChequeNo: <ECS> ChequeClear <01-11-2016> SrNo <144> VoucherNo <884>.
+145 | 885 | 158 | 1/11/2016 | ECS | 1/11/2016 | 01-11-2016 | 4603 | ChequeNo: <ECS> ChequeClear <01-11-2016> SrNo <145> VoucherNo <885>.
+146 | 886 | 159 | 1/11/2016 | ECS | 1/11/2016 | 01-11-2016 | 11120 | ChequeNo: <ECS> ChequeClear <01-11-2016> SrNo <146> VoucherNo <886>.
+147 | 887 | 160 | 1/11/2016 | ECS | 1/11/2016 | 01-11-2016 | 10451 | ChequeNo: <ECS> ChequeClear <01-11-2016> SrNo <147> VoucherNo <887>.
+148 | 888 | 161 | 1/11/2016 | ECS | 1/11/2016 | 01-11-2016 | 1160 | ChequeNo: <ECS> ChequeClear <01-11-2016> SrNo <148> VoucherNo <888>.
+149 | 889 | 162 | 1/11/2016 | ECS | 1/11/2016 | 01-11-2016 | 1366 | ChequeNo: <ECS> ChequeClear <01-11-2016> SrNo <149> VoucherNo <889>.
+152 | 891 | 14 | 8/11/2016 | 100612 | 8/11/2016 | 08-11-2016 | 3000 | ChequeNo: <100612> ChequeClear <08-11-2016>.
+160 | 897 | 169 | 28-11-2016 | ECS | 28-11-2016 | 28-11-2016 | 817 | ChequeNo: <ECS> ChequeClear <28-11-2016> SrNo <160> VoucherNo <897>.
+161 | 898 | 170 | 29-11-2016 | ECS | 29-11-2016 | 29-11-2016 | 12521 | ChequeNo: <ECS> ChequeClear <29-11-2016> SrNo <161> VoucherNo <898>.
+162 | 899 | 171 | 29-11-2016 | ECS | 29-11-2016 | 29-11-2016 | 5654 | ChequeNo: <ECS> ChequeClear <29-11-2016> SrNo <162> VoucherNo <899>.
+163 | 900 | 172 | 29-11-2016 | ECS | 29-11-2016 | 29-11-2016 | 1093 | ChequeNo: <ECS> ChequeClear <29-11-2016> SrNo <163> VoucherNo <900>.
+164 | 901 | 173 | 29-11-2016 | ECS | 29-11-2016 | 29-11-2016 | 1516 | ChequeNo: <ECS> ChequeClear <29-11-2016> SrNo <164> VoucherNo <901>.
+165 | 902 | 174 | 29-11-2016 | ECS | 29-11-2016 | 29-11-2016 | 12633 | ChequeNo: <ECS> ChequeClear <29-11-2016> SrNo <165> VoucherNo <902>.
+166 | 903 | 175 | 29-11-2016 | ECS | 29-11-2016 | 29-11-2016 | 1269 | ChequeNo: <ECS> ChequeClear <29-11-2016> SrNo <166> VoucherNo <903>.
+172 | 983 | 15 | 13-12-2016 | 100624 | 13-12-2016 | 13-12-2016 | 3000 | ChequeNo: <100624> ChequeClear <13-12-2016>.
+186 | 996 | 194 | 23-12-2016 | ESC | 23-12-2016 | 28-12-2016 | 820 | ChequeNo: <ESC> ChequeClear <28-12-2016> SrNo <186> VoucherNo <996>.
+187 | 997 | 195 | 28-12-2016 | ECS | 28-12-2016 | 28-12-2016 | 953 | ChequeNo: <ECS> ChequeClear <28-12-2016> SrNo <187> VoucherNo <997>.
+188 | 998 | 196 | 28-12-2016 | ECS | 28-12-2016 | 28-12-2016 | 5231 | ChequeNo: <ECS> ChequeClear <28-12-2016> SrNo <188> VoucherNo <998>.
+189 | 999 | 197 | 28-12-2016 | ECS | 28-12-2016 | 28-12-2016 | 12306 | ChequeNo: <ECS> ChequeClear <28-12-2016> SrNo <189> VoucherNo <999>.
+190 | 1000 | 198 | 28-12-2016 | ECS | 28-12-2016 | 28-12-2016 | 11079 | ChequeNo: <ECS> ChequeClear <28-12-2016> SrNo <190> VoucherNo <1000>.
+191 | 1001 | 199 | 28-12-2016 | ECS | 28-12-2016 | 28-12-2016 | 1316 | ChequeNo: <ECS> ChequeClear <28-12-2016> SrNo <191> VoucherNo <1001>.
+192 | 1002 | 200 | 28-12-2016 | ECS | 28-12-2016 | 28-12-2016 | 1626 | ChequeNo: <ECS> ChequeClear <28-12-2016> SrNo <192> VoucherNo <1002>.
+209 | 1132 | 16 | 17-01-2017 | 100653 | 17-01-2017 | 17-01-2017 | 3000 | ChequeNo: <100653> ChequeClear <17-01-2017>.
+210 | 1133 | 17 | 18-01-2017 | 100652 | 18-01-2017 | 18-01-2017 | 1778 | ChequeNo: <100652> ChequeClear <18-01-2017>.
+211 | 1134 | 218 | 18-01-2017 |  |  | 18-01-2017 | 230 | ChequeNo: <> ChequeClear <18-01-2017> SrNo <211> VoucherNo <1134>.
+213 | 1136 | 18 | 20-01-2017 | 100656 | 20-01-2017 | 20-01-2017 | 1983 | ChequeNo: <100656> ChequeClear <20-01-2017>.
+217 | 1140 | 223 | 30-01-2017 | ECS | 30-01-2017 | 30-01-2017 | 806 | ChequeNo: <ECS> ChequeClear <30-01-2017> SrNo <217> VoucherNo <1140>.
+218 | 1141 | 224 | 30-01-2017 | ECS | 30-01-2017 | 30-01-2017 | 36087 | ChequeNo: <ECS> ChequeClear <30-01-2017> SrNo <218> VoucherNo <1141>.
+[End of  Payment Details]
+

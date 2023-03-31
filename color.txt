@@ -1,0 +1,4 @@
+pink = FFB7FF
+
+
+blue = BDD8F4

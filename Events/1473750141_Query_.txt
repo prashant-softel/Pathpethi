@@ -1,0 +1,73 @@
+Directory
+------------------------------------
+Add new column in Unit table -> intercom_no
+
+Notices
+---------------------------------------------------------------
+---------------------------------------------------------------
+-- Table structure for table `display_notices`
+--
+
+CREATE TABLE IF NOT EXISTS `display_notices` (
+  `notice_id` int(11) NOT NULL,
+  `unit_id` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE IF NOT EXISTS `notices` (
+  `id` int(100) NOT NULL AUTO_INCREMENT,
+  `society_id` int(11) NOT NULL,
+  `notice_type_id` int(100) NOT NULL,
+  `issuedby` varchar(500) NOT NULL,
+  `subject` longtext NOT NULL,
+  `description` longtext NOT NULL,
+  `note` longtext NOT NULL,
+  `creation_date` date NOT NULL,
+  `post_date` date NOT NULL,
+  `exp_date` date NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=9 ;
+
+--
+-- Table structure for table `documents`
+--
+
+CREATE TABLE IF NOT EXISTS `documents` (
+  `Name` varchar(50) NOT NULL,
+  `Unit_Id` int(11) NOT NULL,
+  `Email` varchar(40) NOT NULL,
+  `Message` varchar(60) NOT NULL,
+  `Document` varchar(50) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+
+society_db
+---------------------
+-----------------------------
+CREATE TABLE IF NOT EXISTS `events` (
+  `events_id` int(11) NOT NULL AUTO_INCREMENT,
+  `society_id` int(100) NOT NULL,
+  `events_date` varchar(100) NOT NULL,
+  `events_title` varchar(100) NOT NULL,
+  `events` varchar(100) NOT NULL,
+  `timestamp` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  `status` varchar(20) NOT NULL DEFAULT 'Y',
+  `event_time` time NOT NULL,
+  `events_url` varchar(50) NOT NULL,
+  `event_type` varchar(40) NOT NULL,
+  `event_charges` int(11) NOT NULL,
+  PRIMARY KEY (`events_id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=9 ;
+
+--
+-- Table structure for table `events_and_grp`
+--
+
+CREATE TABLE IF NOT EXISTS `events_and_grp` (
+  `events_and_grp_id` int(100) NOT NULL AUTO_INCREMENT,
+  `my_society_id` int(100) NOT NULL,
+  `events_id` int(100) NOT NULL,
+  `society_grp_id` int(100) NOT NULL,
+  `timestamp` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  `status` varchar(100) NOT NULL DEFAULT 'Y',
+  PRIMARY KEY (`events_and_grp_id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=5 ;

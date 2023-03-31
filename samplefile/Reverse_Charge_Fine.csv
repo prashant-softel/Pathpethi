@@ -1,0 +1,5 @@
+UnitNo,LedgerName,Amount,ChargeType,Comments
+102,PROPERTY TAX,100,Reverse Charges,
+601,WATER CHARGES,200,Fine,
+602,PARKING CHARGES,1000,Fine,Fine for wrong parking
+1002,PENALTY,200,Fine,

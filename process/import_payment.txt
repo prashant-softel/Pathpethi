@@ -1,0 +1,87 @@
+[Importing Payment Details.....]
+ErrorLog:[Line No:32]32 | 32 | 32 | 26-09-2017 | THE SARASWAT CO.OP. BANK - SBSLV/76  | 174886 | 26-09-2017 | 5180 | Nirav Infoway Pvt Ltd | 5180 | Wifi Connectionnot inserted because account name ledger not found in ledger
+ErrorLog:[Line No:34]34 | 34 | 34 | 26-09-2017 | THE SARASWAT CO.OP. BANK - SBSLV/76  | 174888 | 26-09-2017 | 15000 | Krishana Pradhan | 15000 | Salary of september monthnot inserted because account name ledger not found in ledger
+[End of  Payment Details]
+
+[Importing Payment Details.....]
+ErrorLog:[Line No:92]92 | 92 | 92 | 04-04-2016 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | ECS | 04-04-2016 | 1318 | ELECTRICITY CHGS PAYABLE
+ECS - ELECTRICITY CHARGES  | 1318 | ECS - ELECTRICITY CHARGES PAID TO TATA POWER CO LTD FOR MARCH 2016.not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:3]3 | 3 | 3 | 05-04-2016 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100500 | 05-04-2016 | 7824 | CASH
+ | 7824 | V.NO.06 CASH WITHDRAWN FOR PETTY EXPENSESnot inserted because account name ledger not found in ledger
+ErrorLog:[Line No:5]5 | 5 | 5 | 05-05-2016 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100516 | 05-05-2016 | 3000 | CASH
+ | 3000 | V.NO.19 CASH WITHDRAWN FOR PETTY EXPENSESnot inserted because account name ledger not found in ledger
+ErrorLog:[Line No:32]32 | 32 | 32 | 24-05-2016 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100522 | 24-05-2016 | 2100 | ACCOUNTS WRITING CHARGES
+ | 2100 | V.NO.27 PAID TO V.R.MANJAREKAR FOR MONTH OF MAY 2016not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:33]33 | 33 | 33 | 24-05-2016 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100523 | 24-05-2016 | 905 | TELEPHONE CHARGES
+ | 905 | V.NO.28 PAID TO MTNL FOR THE PERIOD OF 01/04/2016 TO 30/042016not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:1]1 | 1 | 1 | 01-06-2016 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100528 | 01-06-2016 | 3000 | CASH
+ | 3000 | not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:2]2 | 2 | 2 | 27-06-2016 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100538 | 27-06-2016 | 3000 | CASH
+ | 3000 | not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:6]6 | 6 | 6 | 07-07-2016 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100542 | 07-07-2016 | 4000 | CASH
+ | 4000 | PAID TO CASH WITHDRAWN TOWARDS PETTY CASH EXPENSES.not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:45]45 | 45 | 45 | 14-07-2016 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100546 | 14-07-2016 | 3000 | RM-ELECTRICAL
+ | 3000 | PAID TO SANJAY LAD TOWARDS ELECTRIC WORK IN TOILET BATHROOM, PASSAGE, LOBBY WITH LABOUR & MATERIALS CHARGES.not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:8]8 | 8 | 8 | 11-08-2016 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100564 | 11-08-2016 | 3000 | CASH
+ | 3000 | PAID TO CASH WITHDRAWN TOWARDS PETTY CASH EXPENSES.not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:11]11 | 11 | 11 | 03-09-2016 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100575 | 03-09-2016 | 3000 | CASH
+ | 3000 | PAID TO CASH WITHDRAWN TOWARDS PETTY CASH EXPENSES.not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:13]13 | 13 | 13 | 13-10-2016 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100593 | 13-10-2016 | 3000 | CASH
+ | 3000 | selfnot inserted because account name ledger not found in ledger
+ErrorLog:[Line No:214]214 | 214 | 214 | 10-01-2017 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100650 | 10-01-2017 | 3000 | REPAIR AND MAINTENANCE
+ | 3000 | MOHD JIBRIL ALI AHMED FOR RAILING WORK AND REMOVING AND FIXING PARKING MIRRORS TO DIFF LOCATION.not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:16]16 | 16 | 16 | 17-01-2017 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100653 | 17-01-2017 | 3000 | CASH
+ | 3000 | PAID TO CASH WITHDRAWN TOWARDS PETTY CASH EXPENSES.not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:19]19 | 19 | 19 | 01-02-2017 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100664 | 01-02-2017 | 3000 | CASH
+ | 3000 | not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:20]20 | 20 | 20 | 11-03-2017 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100684 | 11-03-2017 | 2000 | CASH
+ | 2000 | not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:267]267 | 267 | 267 | 29-03-2017 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100697 | 29-03-2017 | 8000 | RM - COMPUTER
+ | 8000 | PAID TO ATTUTI SERVICES PVT LTD TOWARDS SOFTWARE CHARGES.not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:268]268 | 268 | 268 | 29-03-2017 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | ECS | 29-03-2017 | 29073 | ELECTRICITY CHARGES
+ | 29073 | ECS - DR - TPCLnot inserted because account name ledger not found in ledger
+ErrorLog:[Line No:269]269 | 269 | 269 | 29-03-2017 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | ECS | 29-03-2017 | 809 | TELEPHONE CHARGES
+ | 809 | MTNLnot inserted because account name ledger not found in ledger
+[End of  Payment Details]
+
+[Importing Payment Details.....]
+ErrorLog:[Line No:92]92 | 92 | 92 | 04-04-2016 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | ECS | 04-04-2016 | 1318 | ELECTRICITY CHGS PAYABLE
+ECS - ELECTRICITY CHARGES  | 1318 | ECS - ELECTRICITY CHARGES PAID TO TATA POWER CO LTD FOR MARCH 2016.not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:3]3 | 3 | 3 | 05-04-2016 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100500 | 05-04-2016 | 7824 | CASH
+ | 7824 | V.NO.06 CASH WITHDRAWN FOR PETTY EXPENSESnot inserted because account name ledger not found in ledger
+ErrorLog:[Line No:5]5 | 5 | 5 | 05-05-2016 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100516 | 05-05-2016 | 3000 | CASH
+ | 3000 | V.NO.19 CASH WITHDRAWN FOR PETTY EXPENSESnot inserted because account name ledger not found in ledger
+ErrorLog:[Line No:32]32 | 32 | 32 | 24-05-2016 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100522 | 24-05-2016 | 2100 | ACCOUNTS WRITING CHARGES
+ | 2100 | V.NO.27 PAID TO V.R.MANJAREKAR FOR MONTH OF MAY 2016not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:33]33 | 33 | 33 | 24-05-2016 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100523 | 24-05-2016 | 905 | TELEPHONE CHARGES
+ | 905 | V.NO.28 PAID TO MTNL FOR THE PERIOD OF 01/04/2016 TO 30/042016not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:1]1 | 1 | 1 | 01-06-2016 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100528 | 01-06-2016 | 3000 | CASH
+ | 3000 | not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:2]2 | 2 | 2 | 27-06-2016 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100538 | 27-06-2016 | 3000 | CASH
+ | 3000 | not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:6]6 | 6 | 6 | 07-07-2016 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100542 | 07-07-2016 | 4000 | CASH
+ | 4000 | PAID TO CASH WITHDRAWN TOWARDS PETTY CASH EXPENSES.not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:45]45 | 45 | 45 | 14-07-2016 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100546 | 14-07-2016 | 3000 | RM-ELECTRICAL
+ | 3000 | PAID TO SANJAY LAD TOWARDS ELECTRIC WORK IN TOILET BATHROOM, PASSAGE, LOBBY WITH LABOUR & MATERIALS CHARGES.not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:8]8 | 8 | 8 | 11-08-2016 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100564 | 11-08-2016 | 3000 | CASH
+ | 3000 | PAID TO CASH WITHDRAWN TOWARDS PETTY CASH EXPENSES.not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:11]11 | 11 | 11 | 03-09-2016 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100575 | 03-09-2016 | 3000 | CASH
+ | 3000 | PAID TO CASH WITHDRAWN TOWARDS PETTY CASH EXPENSES.not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:13]13 | 13 | 13 | 13-10-2016 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100593 | 13-10-2016 | 3000 | CASH
+ | 3000 | selfnot inserted because account name ledger not found in ledger
+ErrorLog:[Line No:214]214 | 214 | 214 | 10-01-2017 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100650 | 10-01-2017 | 3000 | REPAIR AND MAINTENANCE
+ | 3000 | MOHD JIBRIL ALI AHMED FOR RAILING WORK AND REMOVING AND FIXING PARKING MIRRORS TO DIFF LOCATION.not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:16]16 | 16 | 16 | 17-01-2017 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100653 | 17-01-2017 | 3000 | CASH
+ | 3000 | PAID TO CASH WITHDRAWN TOWARDS PETTY CASH EXPENSES.not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:19]19 | 19 | 19 | 01-02-2017 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100664 | 01-02-2017 | 3000 | CASH
+ | 3000 | not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:20]20 | 20 | 20 | 11-03-2017 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100684 | 11-03-2017 | 2000 | CASH
+ | 2000 | not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:267]267 | 267 | 267 | 29-03-2017 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | 100697 | 29-03-2017 | 8000 | RM - COMPUTER
+ | 8000 | PAID TO ATTUTI SERVICES PVT LTD TOWARDS SOFTWARE CHARGES.not inserted because account name ledger not found in ledger
+ErrorLog:[Line No:268]268 | 268 | 268 | 29-03-2017 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | ECS | 29-03-2017 | 29073 | ELECTRICITY CHARGES
+ | 29073 | ECS - DR - TPCLnot inserted because account name ledger not found in ledger
+ErrorLog:[Line No:269]269 | 269 | 269 | 29-03-2017 | JANASEVA SAHAKARI BANK (BORIVLI) LTD | ECS | 29-03-2017 | 809 | TELEPHONE CHARGES
+ | 809 | MTNLnot inserted because account name ledger not found in ledger
+[End of  Payment Details]
+

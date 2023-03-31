@@ -1,0 +1,29 @@
+[Importing Payment Details.....]
+ErrorLog:[Line No:92]ECS entry for Voucher No. <92> already done.
+ErrorLog:[Line No:3]Voucher No. <3> not imported successfully.
+ErrorLog:[Line No:5]Voucher No. <5> not imported successfully.
+ErrorLog:[Line No:32]Cheque 100522 already issued.
+ErrorLog:[Line No:33]Cheque 100523 already issued.
+ErrorLog:[Line No:1]Voucher No. <1> not imported successfully.
+ErrorLog:[Line No:2]Voucher No. <2> not imported successfully.
+ErrorLog:[Line No:6]Voucher No. <6> not imported successfully.
+ErrorLog:[Line No:45]Cheque 100546 already issued.
+ErrorLog:[Line No:8]Voucher No. <8> not imported successfully.
+ErrorLog:[Line No:11]Voucher No. <11> not imported successfully.
+ErrorLog:[Line No:13]Voucher No. <13> not imported successfully.
+ErrorLog:[Line No:214]Cheque 100650 already issued.
+ErrorLog:[Line No:16]Voucher No. <16> not imported successfully.
+ErrorLog:[Line No:19]Voucher No. <19> not imported successfully.
+ErrorLog:[Line No:20]Voucher No. <20> not imported successfully.
+ErrorLog:[Line No:267]Cheque 100697 already issued.
+ErrorLog:[Line No:268]ECS entry for Voucher No. <268> already done.
+ErrorLog:[Line No:269]ECS entry for Voucher No. <269> already done.
+ErrorLog:[Line No:223]ECS entry for Voucher No. <223> already done.
+ErrorLog:[Line No:21]Cheque 100698 already issued.
+ErrorLog:[Line No:109]Voucher No. <109> not imported successfully.
+ErrorLog:[Line No:270]Voucher No. <270> not imported successfully.
+ErrorLog:[Line No:110]Cheque 123457 already issued.
+ErrorLog:[Line No:218]Voucher No. <218> not imported successfully.
+ErrorLog:[Line No:256]Voucher No. <256> not imported successfully.
+[End of  Payment Details]
+

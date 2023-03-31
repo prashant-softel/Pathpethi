@@ -1,0 +1,91 @@
+<style type="text/css" media="all">
+			
+			div.example {
+				padding: 0 0 150px 0;
+			}
+			div.example:after {
+				content: '';
+				display: block;
+				clear: both;
+			}
+			div.example p {
+				margin: 0 0 10px 0;
+			}
+			
+			div.r {
+				width: 275px;
+				float: right;
+			}
+			
+			div.box {
+				border: 1px solid #ccc;
+				height: 100px;
+				padding: 11px 10px 10px 7px;
+ 				overflow: hidden; 
+			}
+			div.resize {
+				padding-bottom: 250px;
+			}
+			div.resize div.box {
+				position: absolute;
+				width: 50%;
+				height: 100px;
+			}
+			div.resize div.box.before {
+				right: 50%;
+				margin-right: 10px;
+			}
+			div.resize div.box.after {
+				left: 50%;
+				margin-left: 10px;
+			}
+			div.box.opened
+			{
+				height: auto;
+			}
+			div.box .toggle .close,
+			div.box.opened .toggle .open
+			{
+				display: none;
+			}
+			div.box .toggle .opened,
+			div.box.opened .toggle .close
+			{
+				display: inline;
+			}
+			div.box.before {
+				background-color: #ffeeee;
+			}
+			div.box.after {
+				background-color: #eeffee;
+			}
+			p.before {
+				color: #990000;
+			}
+			p.after {
+				color: #006600;
+			}
+			div.box.pathname {
+				height: auto;
+			}
+			.pathname {
+				height: 25px;
+			}
+.radioButton{
+	box-shadow:none;
+	-webkit-box-shadow:none;
+	float:right;
+}
+.setcover
+{
+	box-shadow:none;
+	-webkit-box-shadow:none;
+	float:right;
+}
+.sendphoto
+{
+	box-shadow:none;
+	-webkit-box-shadow:none;
+	float:right;
+}
+</style>

@@ -1,0 +1,8 @@
+[Importing Payment Details.....]
+ErrorLog:[Line No:329]Cheque  already issued.
+ErrorLog:[Line No:521]Cheque  already issued.
+ErrorLog:[Line No:524]Cheque  already issued.
+ErrorLog:[Line No:964]Cheque  already issued.
+ErrorLog:[Line No:1200]Cheque  already issued.
+[End of  Payment Details]
+

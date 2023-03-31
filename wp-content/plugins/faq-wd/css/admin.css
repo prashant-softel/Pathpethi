@@ -1,0 +1,112 @@
+.menu-icon-faq_wd .wp-first-item {
+    display: none;
+}
+
+.clear {
+    clear: both;
+}
+/***order*****/
+.ui-sortable-handle{
+    cursor: move;    
+}
+/*************/
+
+
+
+#faqwd_tabs_ul li {
+    width: 150px;
+    display: inline-block;
+    border:1px solid #b6b6b6;
+    margin: 0 0 0 3px;
+    padding: 0;
+    height: 30px;
+    line-height: 30px;
+    font-size:15px;
+}
+.faqwd_li_setting{
+    text-decoration: none;
+    color:#04aeda;
+    display: inline-block;
+    width: 100%;
+}
+#spider_theme_metabox .ui-tabs-active a ,.faqwd_li_setting:hover{
+    background-color:#04aeda;
+    text-decoration: none;
+    color:white;
+    display: inline-block;
+    width: 100%;
+}
+.faqwd_theme_params, .faqwd_color {
+    margin: 15px 0;
+}
+.faqwd_color > div{
+    float: left;
+}
+.faqwd_theme_params > label{
+    display: inline-block;
+    float: left;
+    width: 148px;
+}
+.faqwd_color > label{
+    width: 148px;
+    margin-top: 17px;
+}
+.faqwd_color:after{
+    content:'';
+    display:table;
+    clear:both;
+}
+.images_upload_button{
+    background: url("../images/faq_wd_img_select.png") no-repeat center left;
+    width:100px;
+    padding-left: 30px;
+    font-size: 17px;
+    background-position: 19% 50%;
+    background-color:#04aeda;
+    border-radius:5px;
+    color:white;
+}
+input.faqwd_color{
+    background: url("../images/color_picker.png") no-repeat center right;
+    background-position-x: 98%;
+}
+.faqwd_theme_select{
+    width:185px;
+}
+.faqwd_theme_param_value{
+    position: relative;
+}
+.faqwd_color div{
+    margin-top:2px;
+}
+.faqwd_imagebox{
+    max-height:150px;
+    max-width:150px;
+    margin:2px 0 0 150px;
+}
+a.remove_img{
+    display: inline-block;
+    position: absolute;
+    left: 339px;
+    top: 35px;
+    display: none;
+    border: 1px solid #b5b5b5;
+    padding: 0 5px 3px 5px;
+    font-size: 24px;
+    text-decoration: none;
+    color: #c74c3f;
+}
+.uninstall_faq_wd{
+    color:red;
+}
+.uninstall_faq{
+    margin:0 38%;
+    display:inline-block;
+}
+.uninstall_button{
+    background-color: #00a0d2;
+    border:1px solid #0073aa;
+    padding:5px 6px;
+    color:white;
+    border-radius:2px;
+}
